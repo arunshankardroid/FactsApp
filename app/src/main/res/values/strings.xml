@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FactsApplication</string>
+    <string name="empty_list">No items</string>
+    <string name="error_occurred">Something is wrong</string>
+    <string name="errorimage">ErrorImage</string>
+    <string name="image">image</string>
+</resources>
